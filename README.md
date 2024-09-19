@@ -1,47 +1,70 @@
-# Hi there, I'm Oussama Ayyoub 👋
+<h1 align="center" style="font-size: 3em; color: #FF6B6B;"> Oussama Ayyoub </h1>
+<h3 align="center" style="font-size: 1.5em; color: #4ECDC4;">Software Engineering Student | Problem Solver | Code Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C%2C+C%2B%2B%2C+and+Linux;Always+learning%2C+always+growing;Turning+coffee+into+code+since+2021" alt="Typing SVG" />
+</div>
 
-## Software Engineering Student at 1337 (UM6P - 42 Network)
+## <span style="color: #FF6B6B;">🚀 About Me</span>
 
-I'm passionate about coding and constantly learning new technologies. Currently focusing on improving my skills in C, C++, and exploring the world of Linux.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4MzgzZjM5NTRiZDE0NTJjZDQ5MzBkNzY5NzA1NTA2MzM3NzNjNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I'm currently learning advanced C techniques and diving deeper into system programming
-- 👯 I'm looking to collaborate on open source projects
-- 🥅 2024 Goals: Contribute more to open source and build impactful projects
-- ⚡ Fun fact: I love solving algorithmic problems and participating in coding challenges
 
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-ayyoub-347404266)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyouboussama9@gmail.com)
-
-### Languages and Tools:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-ay&show_icons=true&theme=radical" alt="oussama-ay" />
+<p style="font-size: 1.1em;">
+I'm a dedicated software engineering student at <strong style="color: #4ECDC4;">1337 (UM6P - 42 Network)</strong>, passionate about coding and constantly expanding my knowledge in the tech world. My current focus is on mastering C and C++, while exploring the depths of Linux and system programming.
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-ay&theme=radical" alt="oussama-ay" />
+- 🔭 Currently working on: **Enhancing problem-solving skills through algorithmic challenges**
+- 🌱 Learning: **Advanced C techniques and system programming**
+- 👯 Looking to collaborate on: **Innovative open-source projects**
+- 🥅 2024 Goals: **Contribute significantly to open-source and develop impactful software solutions**
+- ⚡ Fun fact: **I thrive on solving complex algorithmic problems and participating in coding competitions**
+
+## <span style="color: #FF6B6B;">🛠️ Technologies & Tools</span>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-### Most Used Languages:
+## <span style="color: #FF6B6B;">📊 GitHub Stats</span>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-ay&layout=compact&theme=radical" alt="oussama-ay" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussama-ay&show_icons=true&theme=radical" alt="Oussama's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-ay&theme=radical" alt="Oussama's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-ay&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## <span style="color: #FF6B6B;">🤝 Connect with Me</span>
+
+<p align="center">
+  <a href="https://linkedin.com/in/oussama-ayyoub-347404266" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ayyouboussama9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/oussama-ay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-⭐️ From [oussama-ay](https://github.com/oussama-ay)
-
-![Profile views](https://komarev.com/ghpvc/?username=oussama-ay&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=oussama-ay&label=Profile%20views&color=FF6B6B&style=flat)
+  
+  <h4 style="color: #4ECDC4;">⭐️ From <a href="https://github.com/oussama-ay" style="color: #FF6B6B;">oussama-ay</a> ⭐️</h4>
+</div>
