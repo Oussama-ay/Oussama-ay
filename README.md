@@ -2,7 +2,7 @@
 <h3 align="center" style="font-size: 1.5em; color: #4ECDC4;">Software Engineering Student | Problem Solver | Code Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C%2C+C%2B%2B%2C+and+Linux;Always+learning%2C+always+growing;Turning+coffee+into+code+since+2021" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C%2C+C%2B%2B%2C+and+Linux;Always+learning%2C+always+growing;Turning+coffee+into+code+since+2022" alt="Typing SVG" />
 </div>
 
 ## <span style="color: #FF6B6B;">🚀 About Me</span>
