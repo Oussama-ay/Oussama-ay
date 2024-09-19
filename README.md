@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3em; color: #FF6B6B;"> Oussama Ayyoub </h1>
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Oussama Ayyoub </h1>
 <h3 align="center" style="font-size: 1.5em; color: #4ECDC4;">Software Engineering Student | Problem Solver | Code Enthusiast</h3>
 
 <div align="center">
@@ -45,6 +45,14 @@ I'm a dedicated software engineering student at <strong style="color: #4ECDC4;">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-ay&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+## 🎯 Current Focus
+
+I'm currently diving deep into:
+
+- Advanced data structures and algorithms
+- Low-level system programming
+- Contributing to open-source projects
 
 ## <span style="color: #FF6B6B;">🤝 Connect with Me</span>
 
