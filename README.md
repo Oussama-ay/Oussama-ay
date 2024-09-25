@@ -1,26 +1,31 @@
-<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Oussama Ayyoub </h1>
-<h3 align="center" style="font-size: 1.5em; color: #4ECDC4;">Software Engineering Student | Problem Solver | Code Enthusiast</h3>
+# Oussama Ayyoub | Code Alchemist 🧪
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C%2C+C%2B%2B%2C+and+Linux;Always+learning%2C+always+growing;Turning+coffee+into+code+since+2022" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C+and+C%2B%2B;Linux+explorer+and+learner;Building+skills%2C+one+line+at+a+time" alt="Typing SVG" />
 </div>
 
-## <span style="color: #FF6B6B;">🚀 About Me</span>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4MzgzZjM5NTRiZDE0NTJjZDQ5MzBkNzY5NzA1NTA2MzM3NzNjNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🧠 My Coding Philosophy
 
+```mermaid
+graph TD
+    A[Curiosity] -->|Drives| B(Learning)
+    B --> C{Practice}
+    C -->|Debug| D[Improvement]
+    C -->|Iterate| C
+    D --> E[Application]
+    E -->|New Challenges| A
+```
 
-<p style="font-size: 1.1em;">
-I'm a dedicated software engineering student at <strong style="color: #4ECDC4;">1337 (UM6P - 42 Network)</strong>, passionate about coding and constantly expanding my knowledge in the tech world. My current focus is on mastering C and C++, while exploring the depths of Linux and system programming.
-</p>
+## 🚀 Current Focus
 
-- 🔭 Currently working on: **Enhancing problem-solving skills through algorithmic challenges**
-- 🌱 Learning: **Advanced C techniques and system programming**
-- 👯 Looking to collaborate on: **Innovative open-source projects**
-- 🥅 2024 Goals: **Contribute significantly to open-source and develop impactful software solutions**
-- ⚡ Fun fact: **I thrive on solving complex algorithmic problems and participating in coding competitions**
+- 🔭 Exploring: The fascinating world of system programming
+- 🌱 Learning: Advanced C techniques and algorithms
+- 🛠️ Building: Small projects to reinforce my learning
+- 🎯 Aiming: To contribute to open-source projects in the near future
 
-## <span style="color: #FF6B6B;">🛠️ Technologies & Tools</span>
+## 💻 Tech Stack
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -46,44 +51,41 @@ I'm a dedicated software engineering student at <strong style="color: #4ECDC4;">
   </a>
 </p>
 
-## <span style="color: #FF6B6B;">📊 GitHub Stats</span>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 📚 Learning Journey
+
+- 📖 Currently reading: "The C Programming Language" by K&R
+- 🏫 Studying at: 1337 Coding School (42 Network)
+- 🌟 Next goal: Dive deeper into data structures and algorithms
+
+## 📊 Stat Tracker
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-ay&show_icons=true&theme=radical" alt="Oussama's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oussama-ay&show_icons=true&theme=synthwave" alt="GitHub Stats" />
 </div>
+
+## 🔗 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-ay&theme=radical" alt="Oussama's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-ay&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🎯 Current Focus
-
-I'm currently diving deep into:
-
-- Advanced data structures and algorithms
-- Low-level system programming
-- Contributing to open-source projects
-
-## <span style="color: #FF6B6B;">🤝 Connect with Me</span>
-
-<p align="center">
-  <a href="https://linkedin.com/in/oussama-ayyoub-347404266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/oussama-ayyoub-347404266">
+    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/oussama-ay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/oussama-ay">
+    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
----
+## 💡 Fun Fact
+
+Did you know? The first computer bug was an actual bug! In 1947, Grace Hopper found a moth trapped in a relay of the Harvard Mark II computer. This coined the term "debugging" for fixing computer glitches!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=oussama-ay&label=Profile%20views&color=FF6B6B&style=flat)
-  
-  <h4 style="color: #4ECDC4;">⭐️ From <a href="https://github.com/oussama-ay" style="color: #FF6B6B;">oussama-ay</a> ⭐️</h4>
+  <img src="https://komarev.com/ghpvc/?username=oussama-ay&color=4ECDC4&style=flat-square&label=Profile+Visitors" alt="Profile views" />
+</div>
+
+<div align="center">
+  <sub>Always learning, always coding. Let's build something amazing together!</sub>
 </div>
