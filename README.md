@@ -62,7 +62,10 @@ graph TD
 ## 📊 Stat Tracker
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-ay&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+
+| [![Oussama Ayyoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussama-ay&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/oussama-ay?tab=repositories) | [![Oussama Ayyoub's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-ay&layout=compact&hide_border=true&theme=jolly)](https://github.com/oussama-ay?tab=repositories) |
+|:-:|:-:|
+
 </div>
 
 ## 🔗 Connect With Me
