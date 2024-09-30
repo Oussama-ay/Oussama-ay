@@ -71,8 +71,6 @@
 
 Did you know? The first computer bug was an actual bug! In 1947, Grace Hopper found a moth trapped in a relay of the Harvard Mark II computer. This coined the term "debugging" for fixing computer glitches!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=oussama-ay&color=4ECDC4&style=flat-square&label=Profile+Visitors" alt="Profile views" />
 </div>
