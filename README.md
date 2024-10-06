@@ -6,14 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Current Focus
+## Current Focus
 
 - 🔭 Exploring: The fascinating world of system programming
 - 🌱 Learning: Advanced C techniques and algorithms
 - 🛠️ Building: Small projects to reinforce my learning
 - 🎯 Aiming: To contribute to open-source projects in the near future
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -41,13 +41,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📚 Learning Journey
+## Learning Journey
 
 - 📖 Currently reading: C From Theory to Practice
 - 🏫 Studying at: 1337 Coding School (42 Network)
 - 🌟 Next goal: Dive deeper into data structures and algorithms
 
-## 📊 Stat Tracker
+## Stat Tracker
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 </div>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/oussama-ayyoub-347404266">
@@ -67,7 +67,7 @@
   </a>
 </div>
 
-## 💡 Fun Fact
+## Fun Fact
 
 Did you know? The first computer bug was an actual bug! In 1947, Grace Hopper found a moth trapped in a relay of the Harvard Mark II computer. This coined the term "debugging" for fixing computer glitches!
 
