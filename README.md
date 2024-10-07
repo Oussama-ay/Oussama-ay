@@ -6,13 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Current Focus
-
-- 🔭 Exploring: The fascinating world of system programming
-- 🌱 Learning: Advanced C techniques and algorithms
-- 🛠️ Building: Small projects to reinforce my learning
-- 🎯 Aiming: To contribute to open-source projects in the near future
-
 ## Tech Stack
 
 <p align="center">
@@ -43,9 +36,9 @@
 
 ## Learning Journey
 
-- 📖 Currently reading: C From Theory to Practice
-- 🏫 Studying at: 1337 Coding School (42 Network)
-- 🌟 Next goal: Dive deeper into data structures and algorithms
+-  Currently reading: C From Theory to Practice
+-  Studying at: 1337 Coding School (42 Network)
+-  Next goal: Dive deeper into data structures and algorithms
 
 ## Stat Tracker
 
