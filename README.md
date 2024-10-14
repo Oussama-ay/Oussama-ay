@@ -35,14 +35,6 @@
   </a>
 </div>
 
-## Fun Fact
-
-Did you know? The first computer bug was an actual bug! In 1947, Grace Hopper found a moth trapped in a relay of the Harvard Mark II computer. This coined the term "debugging" for fixing computer glitches!
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=oussama-ay&color=4ECDC4&style=flat-square&label=Profile+Visitors" alt="Profile views" />
-</div>
-
-<div align="center">
-  <sub>Always learning, always coding. Let's build something amazing together!</sub>
 </div>
