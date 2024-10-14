@@ -31,10 +31,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/oussama-ayyoub-347404266">
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/oussama-ay">
-    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+     <img src="https://skillicons.dev/icons?i=linkedin" /><br>
   </a>
 </div>
 
