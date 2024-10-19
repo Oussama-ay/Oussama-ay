@@ -7,7 +7,7 @@
 ## Tech Stack
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=c,git,github,vim,bash,vscode" /><br>
+   <img src="https://skillicons.dev/icons?i=c,mysql,git,github,vim,bash,vscode" /><br>
 </p>
 
 ## Learning Journey
