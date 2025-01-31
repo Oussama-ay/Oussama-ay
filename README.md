@@ -1,6 +1,12 @@
 # Oussama Ayyoub
 
 <div align="center">
+
+[![oayyoub's 42 stats](https://badge.mediaplus.ma/greenbinary/oayyoub)](https://github.com/oakoudad/badge42)
+
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C+and+C%2B%2B;Linux+explorer+and+learner;Building+skills%2C+one+line+at+a+time" alt="Typing SVG" />
 </div>
 
