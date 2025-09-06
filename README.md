@@ -18,7 +18,6 @@
 
 ## Learning Journey
 
--  Currently reading: C From Theory to Practice
 -  Studying at: 1337 Coding School (42 Network)
 -  Next goal: Dive deeper into data structures and algorithms
 
