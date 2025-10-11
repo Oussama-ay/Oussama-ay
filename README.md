@@ -6,20 +6,11 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+C+and+C%2B%2B;Linux+explorer+and+learner;Building+skills%2C+one+line+at+a+time" alt="Typing SVG" />
-</div>
-
 ## Tech Stack
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=c,mysql,git,github,vim,bash,vscode" /><br>
 </p>
-
-## Learning Journey
-
--  Studying at: 1337 Coding School (42 Network)
--  Next goal: Dive deeper into data structures and algorithms
 
 ## Stat Tracker
 
