@@ -25,11 +25,11 @@
  
 <p align="center">
   <a href="https://leetcode.com/u/Oussama-ay/">
-    <img height="160" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+    <img height="50" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codingame.com/profile/0edaeb0793216b61352808f03f496ba52849636">
-    <img height="160" width="500" src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+    <img height="50" width="130" src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
   </a>
 </p>
 
