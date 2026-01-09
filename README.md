@@ -32,5 +32,3 @@
      <img src="https://skillicons.dev/icons?i=linkedin" /><br>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=oussama-ay&color=4ECDC4&style=flat-square&label=Profile+Visitors" alt="Profile views" />
