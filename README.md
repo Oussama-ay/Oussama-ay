@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,mysql,js,react,git,bash" />
 </div>
 
-## Problem-Solving Platforms
+## Platforms
 
 <div align="center">
   <a href="https://leetcode.com/u/Oussama-ay/">
@@ -37,4 +37,4 @@
 
 ## Portfolio
 
-🌐 **https://oussama-ayyoub.vercel.app/**
+🌐 **https://ousama-ayyoub.me/**
