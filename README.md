@@ -21,8 +21,14 @@
     <img height="48" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.codingame.com/profile/0edaeb0793216b61352808f03f496ba52849636">
     <img height="48" width="120" src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/oayyoub">
+    <img height="48" src="https://sta.codeforces.com/s/91837/images/codeforces-logo-with-telegram.png" />
   </a>
 </div>
 
